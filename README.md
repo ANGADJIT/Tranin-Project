@@ -1,1 +1,1 @@
-# Tranin-Project
+# Traning-Project
